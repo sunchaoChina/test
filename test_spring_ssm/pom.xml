@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   <properties>
 		<!-- 主要依赖库的版本定义 -->
-		<spring.version>4.1.9.RELEASE</spring.version>
+		<spring.version>5.3.19</spring.version>
 		<!-- mybatis版本号 -->  
         <mybatis.version>3.2.6</mybatis.version>  
         <!-- log4j日志文件管理包版本 -->  
